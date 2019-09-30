@@ -10,6 +10,10 @@ import javax.imageio.ImageIO;
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 
+/**
+ * http://www-connex.lip6.fr/~baskiotisn/index.php/2017/09/20/2i002-introduction-a-la-programmation-objet-2017-2018/
+ */
+
 public class SimpleInterface extends JFrame implements KeyListener{
 
 	private static final long serialVersionUID = 1L;
